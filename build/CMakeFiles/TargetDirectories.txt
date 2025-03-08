@@ -1,0 +1,3 @@
+/Users/yusenpai/fluid simulator/build/CMakeFiles/FluidSimulator.dir
+/Users/yusenpai/fluid simulator/build/CMakeFiles/edit_cache.dir
+/Users/yusenpai/fluid simulator/build/CMakeFiles/rebuild_cache.dir
